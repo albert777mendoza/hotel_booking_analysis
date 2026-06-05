@@ -105,6 +105,6 @@ La reducción de la tasa de cancelación del City Hotel del 41.7% al 30% podría
 ## Autor
 
 Albert F. Mendoza  
-Administrador Público – Especialista en Gestión Pública – Analista de Datos  
+Analista de Datos Jr. Administrador Público en transición a la Ciencia de Datos. 
 Portafolio: https://albert777mendoza.github.io  
 LinkedIn: https://linkedin.com
